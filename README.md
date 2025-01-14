@@ -13,8 +13,10 @@
 <img align="center" height="322" src="https://codeforces-readme-stats.vercel.app/api/card?username=hkalra0001&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="hkalra0001 Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/u/hkalra0001">
-<img align="center" height="322" src="https://codeforces-readme-stats.vercel.app/api/card?username=hkalra0001&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" height="322" alt="hkalra0001 CodeForces Stats" alt="hkalra0001 Leetcode Stats"/>
+<img align="center" height="322" src="https://leetcard.jacoblin.cool/hkalra0001?theme=dark&font=Biryani&ext=activity
+" height="322" alt="hkalra0001 CodeForces Stats" alt="hkalra0001 Leetcode Stats"/>
 </a>
+
 
 ## 🧩 Technologies worked with
 
