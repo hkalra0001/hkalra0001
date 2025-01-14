@@ -14,7 +14,7 @@
 </a>
 <a href="https://leetcode.com/u/hkalra0001">
 <img align="center" height="322" src="https://leetcard.jacoblin.cool/hkalra0001?theme=dark&font=Biryani&ext=activity
-" height="322" alt="hkalra0001 CodeForces Stats" alt="hkalra0001 Leetcode Stats"/>
+" height="322" alt="hkalra0001 Leetcode Stats"/>
 </a>
 
 
